@@ -1,67 +1,56 @@
-# ♻️ Smart Waste Sorting – Vancouver
+# ♻️ StreetWaste – Smart Waste Sorting for Vancouver
 
-### Helping people dispose of waste correctly, one item at a time.
+### Making Vancouver's streets cleaner, one piece of waste at a time.
 
 ## 🌱 About the Project
 
-We are a team of three girls participating in the **WAI Hackathon**.
+We are a team of three women participating in the **WAI Hackathon**.
 
-Our project aims to make waste disposal easier and more accessible by helping people identify the correct waste bin for different items.
+We are developing an application that helps people identify the correct bin for waste they encounter or generate on the streets.
 
-Waste sorting and disposal guidelines vary across Canadian provinces and municipalities. An item that belongs in one bin in one location may need to be disposed of differently elsewhere.
+Whether it's a plastic bottle, coffee cup, food wrapper, tissue, or other everyday litter, our goal is to help users determine the appropriate disposal method.
 
-To address this challenge, we are focusing specifically on **Vancouver, British Columbia**, and its local waste disposal guidelines.
+Since waste sorting guidelines vary across Canadian municipalities, we are initially focusing on **Vancouver, British Columbia**.
 
 ## 🎯 Problem Statement
 
-Many people are unsure about which bin to use when disposing of everyday waste. Incorrect waste sorting can lead to contamination of recycling and compost streams, making waste management less effective.
+Street litter and incorrect waste disposal contribute to environmental pollution and make public spaces less clean.
 
-Finding the correct disposal instructions can also be confusing and time-consuming.
+People often struggle to identify the correct bin for different types of waste, especially when disposal guidelines vary by location.
+
+This can result in recyclable and compostable materials being placed in the wrong bins.
 
 ## 💡 Our Solution
 
-We are developing an application that helps users determine the appropriate bin for their waste.
+We are building a smart waste identification application that helps users determine where different types of street waste should go.
 
-Users will be able to identify an item and receive guidance on where to dispose of it.
+Users can identify or upload an image of a waste item and receive a recommendation for its appropriate disposal category based on Vancouver's local waste management guidelines.
 
-Our goal is to make waste sorting simple, convenient, and location-specific.
+## 🚀 Planned Features
+
+- Identify waste items using image recognition.
+- Recommend the appropriate disposal bin.
+- Provide Vancouver-specific waste sorting recommendations.
+- Help users understand how to dispose of common street litter.
+- Promote responsible waste disposal and cleaner public spaces.
 
 ## 📍 Project Scope
 
-- **Target Location:** Vancouver, British Columbia, Canada
-- **Target Users:** Vancouver residents, students, and visitors
-- **Focus:** Correct waste identification and bin classification
-- **Reference:** Vancouver's local waste disposal guidelines
-
-## 🚀 Key Features
-
-*Planned features:*
-
-- Identify different types of waste.
-- Recommend the appropriate disposal bin.
-- Provide location-specific waste sorting guidance.
-- Help users make environmentally responsible disposal decisions.
+- **Initial Location:** Vancouver, British Columbia, Canada
+- **Target Users:** Pedestrians, students, tourists, and residents.
+- **Focus:** Street waste identification and disposal.
+- **Data Sources:** City of Vancouver and relevant recycling guidelines.
 
 ## 👩‍💻 Our Team
 
 Built by a team of three women participating in the WAI Hackathon.
 
-## 🛠️ Tech Stack
-
-*To be updated as development progresses.*
-
-- Frontend:
-- Backend:
-- Database:
-- AI / Machine Learning:
-
 ## 🌍 Our Mission
 
-To reduce waste contamination and encourage responsible waste disposal through accessible technology.
+To make responsible waste disposal easier through technology and help create cleaner, more sustainable public spaces.
 
-**Small actions. Smarter sorting. A cleaner Vancouver.**
+**Cleaner streets. Smarter choices. A greener Vancouver.**
 
 ---
 
 *Built with purpose at the WAI Hackathon 💚*
-
